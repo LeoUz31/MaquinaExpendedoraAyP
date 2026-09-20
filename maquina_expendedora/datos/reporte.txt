@@ -1,0 +1,71 @@
+==================================================
+       REPORTE DE VENTAS - MÁQUINA EXPENDEDORA
+==================================================
+
+--- PRODUCTOS ---
+Coordenada   Producto             Cargado    Vendido    Restante  
+--------------------------------------------------------------
+A1           Coca-Cola Classic 355 ml 10         1          9         
+A2           Coca-Cola Zero 355 ml 10         0          10        
+A3           Coca-Cola Light 355 ml 10         0          10        
+A4           Fanta Naranja 355 ml 10         0          10        
+A5           Chinotto 355 ml      10         0          10        
+A6           Aguakina Schweppes 355 ml 10         0          10        
+A7           Powerade 500 ml      10         0          10        
+A8           Nevada 500 ml        10         0          10        
+A9           Pepsi lata 355 ml    10         0          10        
+B1           Pepsi light 355 ml   10         0          10        
+B2           Pepsi Cero Azucar    10         0          10        
+B3           Golden naranja lata 355 ml 10         0          10        
+B4           SevenUp 355 ml       10         0          10        
+B5           Maltín Polar lata    10         0          10        
+B6           Gatorade 500 ml      10         0          10        
+B7           Minalba 500 ml       10         0          10        
+B8           Ruffles Deli Size    10         0          10        
+B9           Doritos Deli Size    10         0          10        
+C1           Cheetos Deli Size    10         0          10        
+C2           Lays Deli Size       10         0          10        
+C3           Munchies             10         0          10        
+C4           Platanitos Caribas   10         0          10        
+C5           Yuquitas Caribas     10         0          10        
+C6           NatuChips originales 10         0          10        
+C7           NatuChips con limón  10         0          10        
+C8           Chocolate Savoy 100 g 10         0          10        
+C9           Chocolate Savoy 130 g 10         0          10        
+D1           Chocolate Savoy 150 g 10         0          10        
+D2           Chocolate Savoy 175 g 10         0          10        
+D3           Savoy Carré          10         0          10        
+D4           Barra Hershey's 43 g 10         0          10        
+D5           Barra Hershey's 74 g 10         0          10        
+D6           Barra Hershey's 124 g 10         0          10        
+D7           Barra KitKat         10         0          10        
+D8           Reese's Peanut Butter Cups 10         1          9         
+D9           Cronch Flakes lonchera 10         0          10        
+E1           Hojuelas Azucaradas lonchera 10         0          10        
+E2           Choco Safari lonchera 10         0          10        
+E3           Choco Cronch lonchera 10         0          10        
+E4           Abcitoos Lonchera    10         0          10        
+E5           Pop Cronch Lonchera  10         0          10        
+E6           Pop Cronch chocolate 10         0          10        
+E7           Fruty Aros Lonchera  10         0          10        
+E8           Corn Flakes de Kelloggs 10         0          10        
+E9           Zucaritas Fun Size   10         0          10        
+F1           ChocoZucarits Fun Fize 10         0          10        
+F2           Froot Loops Fun Size 10         0          10        
+F3           Corn Pops Fun Size   10         0          10        
+F4           Pop Tarts Fresa (2 unidades) 10         0          10        
+F5           Pop Tarts Canela (2 unidades) 10         1          9         
+F6           Pop Tarts Arándano (2 unidades) 10         0          10        
+
+Total de productos vendidos : 3
+Total de dinero cobrado     : 5.10
+
+--- USUARIOS ---
+Hash de Tarjeta           Total Gastado  
+----------------------------------------
+971972920886152672        1.10           
+868325932658092573        1.75           
+5045008721928864229       2.25           
+
+Cantidad de usuarios únicos : 3
+==================================================

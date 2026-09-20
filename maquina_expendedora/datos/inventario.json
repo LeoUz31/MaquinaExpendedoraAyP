@@ -1,0 +1,485 @@
+{
+    "inventario": {
+        "A1": {
+            "codigoLetras": "CocaC",
+            "nombreCompleto": "Coca-Cola Classic 355 ml",
+            "precio": 1.1,
+            "mensajeDespedida": "¡Disfruta de tu Coca-Cola bien fría!",
+            "cantidad": 9,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 1
+        },
+        "A2": {
+            "codigoLetras": "CocaZ",
+            "nombreCompleto": "Coca-Cola Zero 355 ml",
+            "precio": 1.2,
+            "mensajeDespedida": "¡Más sabor, menos azucar!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A3": {
+            "codigoLetras": "CocaL",
+            "nombreCompleto": "Coca-Cola Light 355 ml",
+            "precio": 1.2,
+            "mensajeDespedida": "¡Este es tu sabor, disfrútalo!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A4": {
+            "codigoLetras": "Fanta",
+            "nombreCompleto": "Fanta Naranja 355 ml",
+            "precio": 1.2,
+            "mensajeDespedida": "¡Fanta Naranja es un Hit!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A5": {
+            "codigoLetras": "Chint",
+            "nombreCompleto": "Chinotto 355 ml",
+            "precio": 1.1,
+            "mensajeDespedida": "¡Disfruta la bebida cítrica número uno en el mundo!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A6": {
+            "codigoLetras": "Aguak",
+            "nombreCompleto": "Aguakina Schweppes 355 ml",
+            "precio": 1.0,
+            "mensajeDespedida": "Tómate tu tiempo con Schweppes",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A7": {
+            "codigoLetras": "PowrA",
+            "nombreCompleto": "Powerade 500 ml",
+            "precio": 1.5,
+            "mensajeDespedida": "¡La pausa es poder con Powerade!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A8": {
+            "codigoLetras": "Nevada",
+            "nombreCompleto": "Nevada 500 ml",
+            "precio": 0.7,
+            "mensajeDespedida": "¡Nevada es el agua mineral!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "A9": {
+            "codigoLetras": "Pepsi",
+            "nombreCompleto": "Pepsi lata 355 ml",
+            "precio": 1.1,
+            "mensajeDespedida": "Pepsi: ¡Es lo que te gusta!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B1": {
+            "codigoLetras": "PepsL",
+            "nombreCompleto": "Pepsi light 355 ml",
+            "precio": 1.1,
+            "mensajeDespedida": "Pepsi Light: disfruta sin calorías",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B2": {
+            "codigoLetras": "PepsiZ",
+            "nombreCompleto": "Pepsi Cero Azucar",
+            "precio": 1.1,
+            "mensajeDespedida": "¡Cero Azucar: cero calorías!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B3": {
+            "codigoLetras": "Goldn",
+            "nombreCompleto": "Golden naranja lata 355 ml",
+            "precio": 1.1,
+            "mensajeDespedida": "Golden: ¡El sabor de tu diversión!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B4": {
+            "codigoLetras": "SvnUp",
+            "nombreCompleto": "SevenUp 355 ml",
+            "precio": 1.2,
+            "mensajeDespedida": "7UP: mereces lo mejor",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B5": {
+            "codigoLetras": "Malta",
+            "nombreCompleto": "Maltín Polar lata",
+            "precio": 1.0,
+            "mensajeDespedida": "¡Maltín Polar: Energía natural!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B6": {
+            "codigoLetras": "Gator",
+            "nombreCompleto": "Gatorade 500 ml",
+            "precio": 1.5,
+            "mensajeDespedida": "Gatorade: ¡nada funciona mejor!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B7": {
+            "codigoLetras": "Minalba",
+            "nombreCompleto": "Minalba 500 ml",
+            "precio": 0.65,
+            "mensajeDespedida": "Minalba: Agua pura de manantial",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B8": {
+            "codigoLetras": "Ruffl",
+            "nombreCompleto": "Ruffles Deli Size",
+            "precio": 2.0,
+            "mensajeDespedida": "Disfruta tus Ruffles onduladas",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "B9": {
+            "codigoLetras": "Dorit",
+            "nombreCompleto": "Doritos Deli Size",
+            "precio": 2.25,
+            "mensajeDespedida": "Doritos para los atrevidos",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C1": {
+            "codigoLetras": "Cheet",
+            "nombreCompleto": "Cheetos Deli Size",
+            "precio": 1.75,
+            "mensajeDespedida": "Es cosa de Cheetos",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C2": {
+            "codigoLetras": "Lays",
+            "nombreCompleto": "Lays Deli Size",
+            "precio": 1.5,
+            "mensajeDespedida": "A que no puedes comer solo una",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C3": {
+            "codigoLetras": "Munch",
+            "nombreCompleto": "Munchies",
+            "precio": 0.75,
+            "mensajeDespedida": "¡Qué munchy este momento!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C4": {
+            "codigoLetras": "Platn",
+            "nombreCompleto": "Platanitos Caribas",
+            "precio": 0.75,
+            "mensajeDespedida": "Disfruta Platanitos Caribas por sus sabor!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C5": {
+            "codigoLetras": "Yuqts",
+            "nombreCompleto": "Yuquitas Caribas",
+            "precio": 0.75,
+            "mensajeDespedida": "Disfruta Yuquitas Caribas por su sabor!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C6": {
+            "codigoLetras": "NatuC",
+            "nombreCompleto": "NatuChips originales",
+            "precio": 0.85,
+            "mensajeDespedida": "Disfruta el verdadero plátano original",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C7": {
+            "codigoLetras": "NatuL",
+            "nombreCompleto": "NatuChips con limón",
+            "precio": 0.85,
+            "mensajeDespedida": "Disfruta el verdadero sabor a limón",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C8": {
+            "codigoLetras": "Savoy",
+            "nombreCompleto": "Chocolate Savoy 100 g",
+            "precio": 0.6,
+            "mensajeDespedida": "¡Savoy con sabor venezolano!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "C9": {
+            "codigoLetras": "Savo2",
+            "nombreCompleto": "Chocolate Savoy 130 g",
+            "precio": 0.85,
+            "mensajeDespedida": "¡Savoy con sabor venezolano!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D1": {
+            "codigoLetras": "Savo3",
+            "nombreCompleto": "Chocolate Savoy 150 g",
+            "precio": 1.0,
+            "mensajeDespedida": "¡Savoy con sabor venezolano!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D2": {
+            "codigoLetras": "Savo4",
+            "nombreCompleto": "Chocolate Savoy 175 g",
+            "precio": 1.25,
+            "mensajeDespedida": "¡Savoy con sabor venezolano!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D3": {
+            "codigoLetras": "Savo5",
+            "nombreCompleto": "Savoy Carré",
+            "precio": 1.5,
+            "mensajeDespedida": "¡Savoy con sabor venezolano!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D4": {
+            "codigoLetras": "Hrshy",
+            "nombreCompleto": "Barra Hershey's 43 g",
+            "precio": 0.5,
+            "mensajeDespedida": "Hershey's: El sabor de los buenos recuerdos",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D5": {
+            "codigoLetras": "Hrsh2",
+            "nombreCompleto": "Barra Hershey's 74 g",
+            "precio": 1.0,
+            "mensajeDespedida": "Hershey's: El sabor de los buenos recuerdos",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D6": {
+            "codigoLetras": "Hrsh3",
+            "nombreCompleto": "Barra Hershey's 124 g",
+            "precio": 1.5,
+            "mensajeDespedida": "Hershey's: El sabor de los buenos recuerdos",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D7": {
+            "codigoLetras": "KitKt",
+            "nombreCompleto": "Barra KitKat",
+            "precio": 1.75,
+            "mensajeDespedida": "¡Date un break, date un KitKat!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "D8": {
+            "codigoLetras": "Reese",
+            "nombreCompleto": "Reese's Peanut Butter Cups",
+            "precio": 2.25,
+            "mensajeDespedida": "¡Todo por un Reese's!",
+            "cantidad": 9,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 1
+        },
+        "D9": {
+            "codigoLetras": "CnchF",
+            "nombreCompleto": "Cronch Flakes lonchera",
+            "precio": 1.6,
+            "mensajeDespedida": "Cronch Flakes es enriquecido con 8 vitaminas y hierro",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E1": {
+            "codigoLetras": "Azucr",
+            "nombreCompleto": "Hojuelas Azucaradas lonchera",
+            "precio": 1.75,
+            "mensajeDespedida": "Crocantes y deliciosas hojuelas de maíz azucaradas",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E2": {
+            "codigoLetras": "ChocS",
+            "nombreCompleto": "Choco Safari lonchera",
+            "precio": 1.75,
+            "mensajeDespedida": "Formas divertidas de animales",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E3": {
+            "codigoLetras": "ChocC",
+            "nombreCompleto": "Choco Cronch lonchera",
+            "precio": 1.75,
+            "mensajeDespedida": "Cereal expandido con sabor a chocolate",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E4": {
+            "codigoLetras": "Abcts",
+            "nombreCompleto": "Abcitoos Lonchera",
+            "precio": 1.7,
+            "mensajeDespedida": "Crocante y delicioso con divertidas formas de letras",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E5": {
+            "codigoLetras": "PopCr",
+            "nombreCompleto": "Pop Cronch Lonchera",
+            "precio": 1.85,
+            "mensajeDespedida": "Crocante y dulce en forma de divertidas esferas",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E6": {
+            "codigoLetras": "PopCC",
+            "nombreCompleto": "Pop Cronch chocolate",
+            "precio": 1.9,
+            "mensajeDespedida": "Sabor a chocolate en forma de divertidas esferas",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E7": {
+            "codigoLetras": "Fruty",
+            "nombreCompleto": "Fruty Aros Lonchera",
+            "precio": 1.8,
+            "mensajeDespedida": "Forma de divertidos aros de colores con sabor a frutas",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E8": {
+            "codigoLetras": "CornF",
+            "nombreCompleto": "Corn Flakes de Kelloggs",
+            "precio": 1.75,
+            "mensajeDespedida": "Tu cereal de Confianza",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "E9": {
+            "codigoLetras": "Zucar",
+            "nombreCompleto": "Zucaritas Fun Size",
+            "precio": 1.85,
+            "mensajeDespedida": "¡Rrrrrrrriquísimas!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "F1": {
+            "codigoLetras": "ChocZ",
+            "nombreCompleto": "ChocoZucarits Fun Fize",
+            "precio": 1.99,
+            "mensajeDespedida": "¡Energía para ganar!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "F2": {
+            "codigoLetras": "Froot",
+            "nombreCompleto": "Froot Loops Fun Size",
+            "precio": 1.99,
+            "mensajeDespedida": "¡Son Frutidiveridos!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "F3": {
+            "codigoLetras": "CornP",
+            "nombreCompleto": "Corn Pops Fun Size",
+            "precio": 1.95,
+            "mensajeDespedida": "¡Necesito mis bolitas Corn Pops!",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "F4": {
+            "codigoLetras": "PopTF",
+            "nombreCompleto": "Pop Tarts Fresa (2 unidades)",
+            "precio": 1.75,
+            "mensajeDespedida": "Delicia pegajosita para llevar",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        },
+        "F5": {
+            "codigoLetras": "PopTC",
+            "nombreCompleto": "Pop Tarts Canela (2 unidades)",
+            "precio": 1.75,
+            "mensajeDespedida": "Delicia pegajosita para llevar",
+            "cantidad": 9,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 1
+        },
+        "F6": {
+            "codigoLetras": "PopTA",
+            "nombreCompleto": "Pop Tarts Arándano (2 unidades)",
+            "precio": 1.75,
+            "mensajeDespedida": "Delicia pegajosita para llevar",
+            "cantidad": 10,
+            "agregadoUltimoStock": 10,
+            "cantidadVendida": 0
+        }
+    },
+    "tarjetas": {
+        "971972920886152672": {
+            "saldo": 127.53999999999999,
+            "totalGastado": 1.1
+        },
+        "868325932658092573": {
+            "saldo": 998.24,
+            "totalGastado": 1.75
+        },
+        "5045008721928864229": {
+            "saldo": 9.83,
+            "totalGastado": 2.25
+        },
+        "4352731616153219794": {
+            "saldo": 8.12,
+            "totalGastado": 0.0
+        },
+        "4414288896857671194": {
+            "saldo": 0.5,
+            "totalGastado": 0.0
+        }
+    }
+}
