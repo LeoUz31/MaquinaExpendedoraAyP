@@ -70,7 +70,6 @@ class MaquinaExpendedora:
 
             productos_remotos = datos_remotos.get("productos", [])
             #L: Lo pongo aca pq sino no funciona sin internet
-            clientes_remotos = datos_remotos.get("clientes", [])
             if productos_remotos:
 
                 inventario_convertido = {}
@@ -99,7 +98,11 @@ class MaquinaExpendedora:
                 self.inventario.cargarCatalogo(inventario_convertido)
 
                 print("✓ Productos cargados desde GitHub.")
-            
+                
+        try:
+            clientes_remotos = datos_remotos.get("clientes", [])
+        except:
+            clientes_remotos = None
 
         if clientes_remotos:
 
